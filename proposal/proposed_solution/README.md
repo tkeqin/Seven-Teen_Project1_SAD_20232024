@@ -18,3 +18,72 @@ Not only manual loaning and returning systems are prone to errors in databases, 
 Since the loss of data in databases is often irreversible and consequential, it would be a good idea to implement data backup features in the system. With data backups, library records for users and book inventories could be safeguarded against the accidental deletion and other causes of data loss. Even if a staff accidentally deleted or wrongfully altered the records, we could always trace back in backups to recover the lost or altered data. This could help in various occasions when manual mistakes or deliberate sabotage are done to the database. 
 
 
+
+## 4.2 Feasibility Study
+
+### 1. Operational Feasibility
+Since librarians are hired to carry out most of the processing in the library, thus we could ensure human resources are always available to operate the new digital library management system that we are proposing here. Although it might prove to be time consuming to persuade and train librarians in using the new library system, that is a problem that can be overcome. Thus, we can conclude that the new proposed library system is operationally feasible.
+
+### 2. Technical Feasibility
+From the aspect of technicality, we currently do not have enough technical resources for us to upgrade the library system. To shape the new system by adding the features mentioned above, we will need to develop an automation system within the library management system for students to check-in and check-out books. Then, we would also need to add filters and keywords into the search engine in the library website. Other than that, a brand new real-time update system and online book reservation system would also need to be developed and implemented into the library website as an additional feature. Data backup would also be required to be introduced into the new system. Thus, by the amount of new developments and implementations we wished to do to the current system, we would need to upgrade our current technology level as well since the current technology level is insufficient. Therefore, we can conclude that it is technically feasible as upgrades can be done. 
+
+### 3. Economic Feasibility (CBA)
+The following is a cost-benefit analysis done to assess the economic feasibility of developing a new system for a library management system.
+
+| Assumptions                       |     | 
+|-----------------------------------|-----|
+| Discount rate                     | 10% |
+| Sensitivity factor (cost)         | 1.1 |
+| Sensitivity factor (benefit)      | 0.9 |
+| Annual change in production costs | 7%  |
+| Annual change in benefits         | 5%  |
+
+| Estimated Cost                                          |           | 
+|---------------------------------------------------------|-----------|
+| Software development                                    | RM 8 000  | 
+| Hardware (servers, networking equipment, cloud service) | RM 20 000 | 
+| Training                                                | RM 8 000  | 
+| Maintenance                                             | RM 3 000  |
+| Networking personnel                                    | RM 15 000 |
+
+| Estimated Benefits                                            |           | 
+|---------------------------------------------------------------|-----------|
+| Reduced administrative costs (manual labour and paperwork)    | RM 20 000 |
+| Reduced staffing costs                                        | RM 15 000 |
+| Revenue opportunities (advertising, partnership, sponsorship) | RM 30 000 |
+| Maintenance                                                   | RM 3 000  |
+| Networking personnel                                          | RM 15 000 |
+
+| Costs                   | Year 0 | Year 1 |   Year 2 |   Year 3 |
+|-------------------------|-------:|-------:|---------:|---------:|
+| Development Costs       |        |        |          |          |
+| Software development    |   8800 |        |          |          |
+| Hardware                |  22000 |        |          |          |
+| Training                |   8800 |        |          |          |
+|                   Total |  39600 |        |          |          |
+|                         |        |        |          |          |
+| Production Costs        |        |        |          |          |
+| Maintenance             |        |   3300 |     3531 |  3778.17 |
+| Networking personnel    |        |  16500 |    17655 | 18890.85 |
+|                         |        |        |          |          |
+| Annual Production Costs |        |  19800 |    21186 | 22669.02 |
+| (Present value)         |        |  18000 | 17509.09 | 17031.57 |
+|                         |        |        |          |          |
+| Accumulated Costs       |        |  57600 | 75109.09 | 92140.66 |
+
+| Benefits                              | Year 0 |    Year 1 |   Year 2 |   Year 3 |
+|---------------------------------------|-------:|----------:|---------:|---------:|
+| Reduced administrative costs          |        |     18000 |    18900 |    19845 |
+| Reduced staffing costs                |        |     13500 |    14175 | 14883.75 |
+| Revenue opportunities                 |        |     27000 |    28350 |  29767.5 |
+|                                       |        |           |          |          |
+| Annual Benefits                       |        |     58500 |    61425 | 64496.25 |
+| (Present value)                       |        |  53181.82 | 50764.46 | 48456.99 |
+|                                       |        |           |          |          |
+| Accumulated Benefits  (Present value) |        |  53181.82 | 103946.3 | 152403.3 |
+|                                       |        |           |          |          |
+| Gain or Loss                          |        | (4418.18) | 28837.19 | 60262.61 |
+|                                       |        |           |          |          |
+| Probability Index                     |        |  1.521783 |          |          |
+
+Based on the calculations, it is shown that the probability index is 1.52, which is higher than 1, indicating that the new system will be a good investment and economically feasible.
