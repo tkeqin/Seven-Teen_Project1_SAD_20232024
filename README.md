@@ -11,4 +11,4 @@
 | Lee Lai Queen         | A23CS0100        | <img src="images/lq.jpeg" width=100px, height=120px>|
 | Yong Jing Wen            | A23CS0202     | <img src="images/jw.jpg" width=100px, height=120px>    |
 | Wong Shi Yun                | A23CS0198        | <img src="images/wsy.jpg/" width=100px, height=120px>         |
-| Benjamin Chew Jun Jie                | A23CS0210        | <img src="image/benjamin.jpeg" width=100px, height=120px>         |
+| Benjamin Chew Jun Jie                | A23CS0210        | <img src="image/benjamin.jpeg/" width=100px, height=120px>         |
