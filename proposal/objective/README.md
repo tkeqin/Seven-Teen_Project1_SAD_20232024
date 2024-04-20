@@ -1,4 +1,4 @@
-**5.0 Objective**
+## 5.0 Objective
 
 1. To provide a searching system with additional features
 2. To implement automated check-in and check-out system to avoid data errors
