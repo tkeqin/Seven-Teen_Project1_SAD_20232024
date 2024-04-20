@@ -8,7 +8,7 @@
 | Name             | Matric Number | Photo                                                         |
 | :---------------- | :-------------: | :------------------------------------------------------------: |
 | Tan Keqin        | A23CS0184        | <img src="images/keqin.jpg/" width=100px, height=120px>    |
-| Lee Lai Queen         | A23CS0100        | <img src="images/" width=100px, height=120px>|
-| Yong Jing Wen            | A23CS0202     | <img src="images/" width=100px, height=120px>    |
+| Lee Lai Queen         | A23CS0100        | <img src="images/lq.hpq" width=100px, height=120px>|
+| Yong Jing Wen            | A23CS0202     | <img src="images/jw.jpg" width=100px, height=120px>    |
 | Wong Shi Yun                | A23CS0198        | <img src="images/wsy.jpg/" width=100px, height=120px>         |
-| Benjamin Chew Jun Jie                | A23CS0210        | <img src="image/" width=100px, height=120px>         |
+| Benjamin Chew Jun Jie                | A23CS0210        | <img src="image/benjamin.jpg" width=100px, height=120px>         |
