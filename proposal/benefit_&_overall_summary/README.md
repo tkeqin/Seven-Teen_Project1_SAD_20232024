@@ -1,4 +1,4 @@
-**8.0 Benefit and Summary of Proposed System**
+### 8.0 Benefit and Summary of Proposed System
 <br>
 <br>
 LibraSync is a system designed by us to streamline library operations, the system will make the tasks such as book borrowing, return and availability checks faster and more efficient. This system is built because there are numerous students complaining about their dissatisfaction with the existing library system. Therefore, LibraSync addresses these concerns by prioritizing user experience.
