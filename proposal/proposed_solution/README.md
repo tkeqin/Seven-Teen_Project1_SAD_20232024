@@ -16,3 +16,5 @@ Not only manual loaning and returning systems are prone to errors in databases, 
 
 ### 5. Introduce data backup as a security measure
 Since the loss of data in databases is often irreversible and consequential, it would be a good idea to implement data backup features in the system. With data backups, library records for users and book inventories could be safeguarded against the accidental deletion and other causes of data loss. Even if a staff accidentally deleted or wrongfully altered the records, we could always trace back in backups to recover the lost or altered data. This could help in various occasions when manual mistakes or deliberate sabotage are done to the database. 
+
+
