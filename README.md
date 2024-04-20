@@ -7,7 +7,7 @@
 
 | Name             | Matric Number | Photo                                                         |
 | :---------------- | :-------------: | :------------------------------------------------------------: |
-| Tan Keqin        | A23CS0184        | <img src="images/" width=200px, height=200px>    |
+| Tan Keqin        | A23CS0184        | <img src="images/keqin.jpg/" width=200px, height=200px>    |
 | Lee Lai Queen         | A23CS0100        | <img src="images/" width=200px, height=200px>    |
 | Yong Jing Wen            | A23CS0202     | <img src="images/" width=200px, height=200px>    |
 | Wong Shi Yun                | A23CS0198        | <img src="images/wsy.jpg/" width=200px, height=200px>         |
