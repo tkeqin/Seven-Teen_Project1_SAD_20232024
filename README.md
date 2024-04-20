@@ -10,5 +10,5 @@
 | Tan Keqin        | A23CS0184        | <img src="images/" width=200px, height=200px>    |
 | Lee Lai Queen         | A23CS0100        | <img src="images/" width=200px, height=200px>    |
 | Yong Jing Wen            | A23CS0202     | <img src="images/" width=200px, height=200px>    |
-| Wong Shi Yun                | A23CS0198        | <img src="imageswsy.jpg/" width=200px, height=200px>         |
+| Wong Shi Yun                | A23CS0198        | <img src="images/wsy.jpg/" width=200px, height=200px>         |
 | Benjamin Chew Jun Jie                | A23CS0210        | <img src="image/" width=200px, height=200px>         |
