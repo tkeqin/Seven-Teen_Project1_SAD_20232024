@@ -1,6 +1,6 @@
-**6.0 Scope**
+## 6.0 Scope
 
-**6.1 Project Scope**
+### 6.1 Project Scope
 <br>
 <br>
 <p align="justify">
