@@ -1,7 +1,13 @@
-7.2 Work Breakdown Structure (WBS)
+**7.0 Project Planning**
+
+**7.1 Human Resource**
+![ENLISH 2 (2)](https://github.com/tkeqin/Seven-Teen_Project1_SAD_20232024/assets/148413538/78d9bbc8-3746-4d9d-ab2f-e453c03fab5f)
+
+
+**7.2 Work Breakdown Structure (WBS)**
 ![wbs](https://github.com/tkeqin/Seven-Teen_Project1_SAD_20232024/assets/150773849/fd300e68-9fdf-4a12-b294-520cd382b5e5)
 
-7.3 Pert Chart
+**7.3 Pert Chart**
 
 
 	   Pert Diagram:
