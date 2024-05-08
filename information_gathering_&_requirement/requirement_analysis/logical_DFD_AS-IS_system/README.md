@@ -3,5 +3,6 @@
 ![image](https://github.com/tkeqin/Seven-Teen_Project1_SAD_20232024/assets/150773849/2ec87190-92a4-407c-8918-dd7865c77229)
 
 ### 5.4.2 Diagram 0
+![image](https://github.com/tkeqin/Seven-Teen_Project1_SAD_20232024/assets/150773849/20c25afa-72ce-428e-8efc-93de85220af1)
 
 ### 5.4.3 Child Diagram
