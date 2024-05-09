@@ -1,1 +1,5 @@
+# 4.2 Summary from method used (include example Interview/Questionnaire/Observation)
+> We get to know the operation process of the current library management system from the perspectives of users which consists of students who contribute the most portion, librarians who carry out the daily tasks and the librarian staff who are responsible for updating information. The information obtained from the questionnaire and interview allowed us to identify the requirements and disadvantages of the current system. This information also acts as a guide to the development and implementation of the updated library management system later. For example, user dissatisfaction is mostly focused on the search function which means our updated system should prioritize in this aspect to improve the user experience.
+>
+> From users’ responses, we can conclude that our current library management system, Librasync,  are having some problems such as poor search functionality, data loss, data inaccurate. Users hope to have a upgraded system with advance search functionality, online website access with reservation and automated information updates.
 
