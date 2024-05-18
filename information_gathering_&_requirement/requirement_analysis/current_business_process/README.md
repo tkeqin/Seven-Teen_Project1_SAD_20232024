@@ -21,5 +21,14 @@
 5. Option for deleteing book record
    5.1 Delete exisiting book record and all relevant details
 6. Logout
+
+### Scenarios & Workflow for Outsiders
+1. Enter system
+2. Option for searching book
+   2.1 Enter book title into search engine
+   2.2 Display search result (book listing) if book found
+   2.3 Choose desired book
+   2.4 Display shelving location of desired book
+3. Exit search
    
-![workflow](https://github.com/tkeqin/Seven-Teen_Project1_SAD_20232024/blob/89dcd260c3c215ad591ea26937499398c0590005/information_gathering_%26_requirement/requirement_analysis/current_business_process/images/SAD%20phase%202%20(edited%200705).png)
+![workflow](https://github.com/tkeqin/Seven-Teen_Project1_SAD_20232024/blob/d3898a8183317db1d28116c96c26bd290836bcc5/information_gathering_%26_requirement/requirement_analysis/current_business_process/images/SAD%20phase%202%20(edited%201805).jpg)
