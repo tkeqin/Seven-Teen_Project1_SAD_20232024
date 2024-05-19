@@ -13,7 +13,7 @@
  
 3. Book status 
    
-   - The library management system only provide the books status that is available or not available only.The system did not mentioned the books is already reserved or already ceckedout and did not immediately provide the real-time book status updates.Therefore the users need to wait some times for the updated or can check it by going to library.This will cause the users confusing about the books status whether the books was reserved , available or checked out.
+   - The library management system only provide the books status that is available or not available only.The system did not mentioned the books is already reserved or already checked out and did not immediately provide the real-time book status updates.Therefore the users need to wait some times for the updated or can check it by going to library.This will cause the users confusing about the books status whether the books was reserved , available or checked out.
  
 4. Overdue books and the reserving / borrowing / returning system
    
@@ -24,6 +24,6 @@
     - The system had a weak security and eaiser for unauthorized people to access. This mean that the system did not uses strong passwords and encryption to keep the users information safe and avoid any hacker or unauthorized access.Not only the users who get access to the system are able to use the website.
  
 2.	Data control
-    - The system will make sure that the data, such as information about the users, information about the books, and so on, is stored correctly. The system will get the data back if something goes wrong or data is lost. 
-      Besides, the system will regularly check to make sure every piece of data is still of good quality and get rid of redundant data.
+    - The data in the system is not really stable.Sometimes, the data will lost or rebundant because the system didn't check the data and do the maintenance. Therefore, when the data is lost ,the system cannot quickly get back the data.
+      
 
