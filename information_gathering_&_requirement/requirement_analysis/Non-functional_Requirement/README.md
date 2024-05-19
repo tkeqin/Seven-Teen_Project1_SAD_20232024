@@ -11,10 +11,9 @@
    - The website of the library management system was a bit messy when used, and sometimes during peak times when many users wanted to access it, the website would become slow to load and at the same time the system would crash. The users need to login to the website by using their UTMID and password to ensure access is restricted to authorized personnel and protect other users.
 
  
-3. Real-time book status updates
+3. Book status 
    
-   - The system interface will show a notification whether a book is available or not and show the book status, such as whether the book has been reserved, after the user searches. The system will update the book's 
-     status immediately when it changes to let the users know the latest status of the book.
+   - The library management system did not immediately provide the real-time book status updates.Therefore the users need to wait some times for the updated or can check it by going to library.This will cause the users confusing about the books status whether the books was reserved , available or checked out.
  
 4. Automated notifications for overdue books and the reservation system
    
