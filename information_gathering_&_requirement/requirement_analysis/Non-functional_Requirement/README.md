@@ -2,18 +2,14 @@
 
 ***Performance***
 
-1. Advanced search capability
+1. Search capability
    
-   - The library management system has been updated and improved by using advanced search capabilities, which make our system more efficient and complex. By using this feature, it can help users search for their desired 
-     items more easily and conveniently. Users can search their books via the publication date, language, and type of the books to allow the system to accurately detect the location of the books. After searching, the 
-     location of the user's desired book will be immediately displayed at the interface of the system.
+   - The searching capability in the library management system function was very common and basis. Users can only find their desired books by searching the book's name or author which makes it more difficult for them to find the specific books. They also need to speed up their search time because there are a lot of similar titles. Therefore, the system cannot quickly locate the desired books they want. The old system does not have the options to filter searches by language, book type, and so on to let users find their books more efficiently.
      
 2. Website access
    
-   - The website of the library management system is easy to use and loads quickly on any device and browser, so users can navigate faster and more easily. The users need to login to the website by using their 
-     matriculation number and password to ensure access is restricted to authorized personnel and protect other users. Besides, the website keeps running faster and smoothly when a lot of users access it without any 
-     crashing or problems, and it makes sure everyone can access it anytime. The speed of the website is optimized to avoid slowing down the system and allow the users to access our website swiftly and have a great 
-     experience while using it.
+   - The website of the library management system was a bit messy when used, and sometimes during peak times when many users wanted to access it, the website would become slow to load and at the same time the system would crash. The users need to login to the website by using their UTMID and password to ensure access is restricted to authorized personnel and protect other users.
+
  
 3. Real-time book status updates
    
