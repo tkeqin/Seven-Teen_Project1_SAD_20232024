@@ -13,19 +13,15 @@
  
 3. Book status 
    
-   - The library management system did not immediately provide the real-time book status updates.Therefore the users need to wait some times for the updated or can check it by going to library.This will cause the users confusing about the books status whether the books was reserved , available or checked out.
+   - The library management system only provide the books status that is available or not available only.The system did not mentioned the books is already reserved or already ceckedout and did not immediately provide the real-time book status updates.Therefore the users need to wait some times for the updated or can check it by going to library.This will cause the users confusing about the books status whether the books was reserved , available or checked out.
  
-4. Automated notifications for overdue books and the reservation system
+4. Overdue books and the reserving / borrowing / returning system
    
-   - For the users who kept and borrowed the books for a long period of time, even if the books were overdue, the system will automatically generate a notification to remind them to return the books on time. Similar to 
-     the users who reserved the books, after the books are available, the system will update their status and send a notification immediately to allow the users to pick them up on time. Besides, the system will 
-     automatically decide who gets priority for the reserved book to make sure it is fair for users.
+   - The reserve system of the library management system can only reserve the books that have been borrowed. The system cannot borrow and return the book in the library management system. It needs users to go to the UTM library and use the self-checkin Machine in the UTM library. For the users who kept and borrowed the books for a long period of time, even if the books were overdue, the system will not generate a notification to remind them to return the books on time. Similar to the users who reserved the books, after the books are available, the system will not update their status and send a notification immediately to allow the users to pick them up on time.
 ---
 ***Control***
 1.	Security and access control
-    - The system uses strong passwords and encryption to keep the users information safe and avoid any hacker or unauthorized access. Only the users who get access to the system are able to use the website. Besides, the 
-      system will always be updated and undergo automatic regular checks to make sure it is in safe condition and give the harm a wide berth. Furthermore, the library management system will stop anyone from using the 
-      system without permission. Other than that, the system will automatically log out after the user leaves their computer logged in. This can prevent other people from using their account without permission.
+    - The system had a weak security and eaiser for unauthorized people to access. This mean that the system did not uses strong passwords and encryption to keep the users information safe and avoid any hacker or unauthorized access.Not only the users who get access to the system are able to use the website.
  
 2.	Data control
     - The system will make sure that the data, such as information about the users, information about the books, and so on, is stored correctly. The system will get the data back if something goes wrong or data is lost. 
