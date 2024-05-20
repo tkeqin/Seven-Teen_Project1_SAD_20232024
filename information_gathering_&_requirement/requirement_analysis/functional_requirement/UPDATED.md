@@ -12,11 +12,15 @@
 | Search book         | Book title                              | Search result (book listing)      |
 | Choose desired book | Desired book option (from book listing) | Shelving location |
 
+### Process for creating book request
+| Process             | Input                                                                                         | Output                            |
+|---------------------|-----------------------------------------------------------------------------------------------|-----------------------------------|
+| Borrow book         | Book ID, student ID                                                                           | Due date slip                     |
+
 ### Process for book record addition
 | Process             | Input                                   | Output                            |
 |---------------------|-----------------------------------------|-----------------------------------|
 | Add book record     | Book ID, Book title, Author, Publication date, Subject, Description | New book record                   |
-
 
 ### Process for book record update
 | Process             | Input                                   | Output                            |
@@ -27,3 +31,8 @@
 | Process             | Input                                   | Output                            |
 |---------------------|-----------------------------------------|-----------------------------------|
 | Delete book record  | Book ID                                 | -                                 |
+
+### Process for issuing book request
+| Process                      | Input                                                                                         | Output                            |
+|------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------|
+| Issue student’s book request | Book ID, student ID                                                                           | Due date slip                     |
