@@ -1,6 +1,6 @@
 ## 5.4 Logical DFD AS-IS System (Context Diagram, Diagram 0, Child Diagram)
 ### 5.4.1 Context Diagram
-![image](https://github.com/tkeqin/Seven-Teen_Project1_SAD_20232024/blob/18e5511d91bce5b0ac781b59b34343a499565eec/information_gathering_%26_requirement/requirement_analysis/logical_DFD_AS-IS_system/images/DFD_context_updated.png)
+![image](https://github.com/tkeqin/Seven-Teen_Project1_SAD_20232024/blob/110b9d6989c58dce571fbddef40564b6243a8da5/information_gathering_%26_requirement/requirement_analysis/logical_DFD_AS-IS_system/images/DFD_context.png)
 
 ### 5.4.2 Diagram 0
 ![image](https://github.com/tkeqin/Seven-Teen_Project1_SAD_20232024/blob/266e87a95f037c8730644a4e80fa1f91cede5d7a/information_gathering_%26_requirement/requirement_analysis/logical_DFD_AS-IS_system/images/DFD_0.png)
