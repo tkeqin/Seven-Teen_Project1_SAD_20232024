@@ -2,7 +2,7 @@
 
 ## Description
 -Phase1: Project Proposal and Planning (Report: [proposal](https://github.com/tkeqin/Seven-Teen_Project1_SAD_20232024/tree/b5da8b3129587544ec52e7e50b59d1b99e43803f/proposal))
-
+-Phase2: Information System Gathering and Requirement (Report: [information_gathering_&_requirement](https://github.com/tkeqin/Seven-Teen_Project1_SAD_20232024/tree/e9eeb05db970816f71a82241e3951b738b6639eb/information_gathering_%26_requirement))
 ## Group Member 🧑‍💻
 
 | Name             | Matric Number | Photo                                                         |
