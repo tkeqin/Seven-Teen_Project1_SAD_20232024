@@ -7,7 +7,7 @@
 
 ### 5.4.3 Child Diagram
 #### 5.4.3.1 Diagram 1
-![image](https://github.com/tkeqin/Seven-Teen_Project1_SAD_20232024/blob/b8722adcec682e69dc8fd6f85666151e745905b8/information_gathering_%26_requirement/requirement_analysis/logical_DFD_AS-IS_system/images/DFD_1.png)
+![image](https://github.com/tkeqin/Seven-Teen_Project1_SAD_20232024/blob/f561251077a791d5d9fa8cd3b83d6aab33c2bab1/information_gathering_%26_requirement/requirement_analysis/logical_DFD_AS-IS_system/images/DFD_1.png)
 #### 5.4.3.2 Diagram 2
 ![image](https://github.com/tkeqin/Seven-Teen_Project1_SAD_20232024/blob/b8722adcec682e69dc8fd6f85666151e745905b8/information_gathering_%26_requirement/requirement_analysis/logical_DFD_AS-IS_system/images/DFD_2.png)
 #### 5.4.3.3 Diagram 3
